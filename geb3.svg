@@ -1,0 +1,158 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 443 238">
+   <g id="areas" fill="#ccc">
+      <g class="area" shortid="27_0" areaname="M4講義室">
+         <polygon points="27,0 105,0 105,71 27,71"/>
+         <g class="wrap" transform="translate(27,0)" width="78" height="71"/>
+      </g>
+      <g class="area" shortid="105_0" areaname="M2講義室">
+         <polygon points="105,0 183,0 183,71 105,71"/>
+         <g class="wrap"
+            transform="translate(105,0)"
+            width="78"
+            height="71"/>
+      </g>
+      <g class="area" shortid="209_0" areaname="男子トイレ">
+         <polygon points="209,0 261,0 261,22 230,22 230,60 209,60"/>
+         <g class="wrap"
+            transform="translate(209,0)"
+            width="21"
+            height="60"/>
+      </g>
+      <g class="area" shortid="230_22" areaname="女子トイレ">
+         <polygon points="230,22 261,22 261,60 230,60"/>
+         <g class="wrap"
+            transform="translate(230,22)"
+            width="31"
+            height="38"/>
+      </g>
+      <g class="area" shortid="27_86" areaname="M3講義室">
+         <polygon points="27,86 105,86 105,154 27,154"/>
+         <g class="wrap"
+            transform="translate(27,86)"
+            width="78"
+            height="68"/>
+      </g>
+      <g class="area" shortid="105_86" areaname="M1講義室">
+         <polygon points="105,86 183,86 183,154 105,154"/>
+         <g class="wrap"
+            transform="translate(105,86)"
+            width="78"
+            height="68"/>
+      </g>
+      <g class="area" shortid="261_86" areaname="J2講義室">
+         <polygon points="261,86 339,86 339,154 261,154"/>
+         <g class="wrap"
+            transform="translate(261,86)"
+            width="78"
+            height="68"/>
+      </g>
+      <g class="area" shortid="339_86" areaname="C2講義室">
+         <polygon points="339,86 417,86 417,154 339,154"/>
+         <g class="wrap"
+            transform="translate(339,86)"
+            width="78"
+            height="68"/>
+      </g>
+      <g class="area" shortid="261_170" areaname="J1講義室">
+         <polygon points="261,170 339,170 339,238 261,238"/>
+         <g class="wrap"
+            transform="translate(261,170)"
+            width="78"
+            height="68"/>
+      </g>
+      <g class="area" shortid="339_170" areaname="C1講義室">
+         <polygon points="339,170 417,170 417,238 339,238"/>
+         <g class="wrap"
+            transform="translate(339,170)"
+            width="78"
+            height="68"/>
+      </g>
+   </g>
+   <g id="lines" stroke="#000">
+      <line x1="27" y1="0" x2="105" y2="0"/>
+      <line x1="105" y1="0" x2="183" y2="0"/>
+      <line x1="183" y1="0" x2="209" y2="0"/>
+      <line x1="209" y1="0" x2="261" y2="0"/>
+      <line x1="183" y1="16" x2="209" y2="16"/>
+      <line x1="230" y1="22" x2="261" y2="22"/>
+      <line x1="183" y1="60" x2="209" y2="60"/>
+      <line x1="209" y1="60" x2="230" y2="60"/>
+      <line x1="230" y1="60" x2="261" y2="60"/>
+      <line x1="0" y1="71" x2="27" y2="71"/>
+      <line x1="27" y1="71" x2="105" y2="71"/>
+      <line x1="105" y1="71" x2="183" y2="71"/>
+      <line x1="0" y1="86" x2="27" y2="86"/>
+      <line x1="27" y1="86" x2="105" y2="86"/>
+      <line x1="105" y1="86" x2="183" y2="86"/>
+      <line x1="261" y1="86" x2="339" y2="86"/>
+      <line x1="339" y1="86" x2="417" y2="86"/>
+      <line x1="0" y1="133" x2="27" y2="133"/>
+      <line x1="27" y1="154" x2="105" y2="154"/>
+      <line x1="105" y1="154" x2="183" y2="154"/>
+      <line x1="261" y1="154" x2="339" y2="154"/>
+      <line x1="339" y1="154" x2="417" y2="154"/>
+      <line x1="417" y1="154" x2="443" y2="154"/>
+      <line x1="183" y1="170" x2="261" y2="170"/>
+      <line x1="261" y1="170" x2="339" y2="170"/>
+      <line x1="339" y1="170" x2="417" y2="170"/>
+      <line x1="417" y1="170" x2="443" y2="170"/>
+      <line x1="183" y1="196" x2="261" y2="196"/>
+      <line x1="417" y1="217" x2="443" y2="217"/>
+      <line x1="261" y1="238" x2="339" y2="238"/>
+      <line x1="339" y1="238" x2="417" y2="238"/>
+      <line x1="0" y1="71" x2="0" y2="86"/>
+      <line x1="0" y1="86" x2="0" y2="133"/>
+      <line x1="27" y1="0" x2="27" y2="71"/>
+      <line x1="27" y1="71" x2="27" y2="86"/>
+      <line x1="27" y1="86" x2="27" y2="133"/>
+      <line x1="27" y1="133" x2="27" y2="154"/>
+      <line x1="105" y1="0" x2="105" y2="71"/>
+      <line x1="105" y1="86" x2="105" y2="154"/>
+      <line x1="183" y1="0" x2="183" y2="60"/>
+      <line x1="183" y1="60" x2="183" y2="71"/>
+      <line x1="183" y1="86" x2="183" y2="154"/>
+      <line x1="183" y1="154" x2="183" y2="170"/>
+      <line x1="183" y1="170" x2="183" y2="196"/>
+      <line x1="209" y1="0" x2="209" y2="60"/>
+      <line x1="230" y1="22" x2="230" y2="60"/>
+      <line x1="261" y1="0" x2="261" y2="22"/>
+      <line x1="261" y1="22" x2="261" y2="60"/>
+      <line x1="261" y1="60" x2="261" y2="86"/>
+      <line x1="261" y1="86" x2="261" y2="154"/>
+      <line x1="261" y1="170" x2="261" y2="196"/>
+      <line x1="261" y1="196" x2="261" y2="238"/>
+      <line x1="339" y1="86" x2="339" y2="154"/>
+      <line x1="339" y1="170" x2="339" y2="238"/>
+      <line x1="417" y1="86" x2="417" y2="154"/>
+      <line x1="417" y1="154" x2="417" y2="170"/>
+      <line x1="417" y1="170" x2="417" y2="217"/>
+      <line x1="417" y1="217" x2="417" y2="238"/>
+      <line x1="443" y1="154" x2="443" y2="170"/>
+      <line x1="443" y1="170" x2="443" y2="217"/>
+   </g>
+   <g id="decorations" fill="none" stroke="#000">
+      <line x1="0" y1="91.875 " x2="27" y2="91.875 "/>
+      <line x1="0" y1="97.75  " x2="27" y2="97.75  "/>
+      <line x1="0" y1="103.625" x2="27" y2="103.625"/>
+      <line x1="0" y1="109.5  " x2="27" y2="109.5  "/>
+      <line x1="0" y1="115.375" x2="27" y2="115.375"/>
+      <line x1="0" y1="121.25 " x2="27" y2="121.25 "/>
+      <line x1="0" y1="127.125" x2="27" y2="127.125"/>
+      <line x1="183" y1="22.285" x2="209" y2="22.285"/>
+      <line x1="183" y1="28.571" x2="209" y2="28.571"/>
+      <line x1="183" y1="34.857" x2="209" y2="34.857"/>
+      <line x1="183" y1="41.142" x2="209" y2="41.142"/>
+      <line x1="183" y1="47.428" x2="209" y2="47.428"/>
+      <line x1="183" y1="53.714" x2="209" y2="53.714"/>
+      <line x1="417" y1="175.875" x2="443" y2="175.875"/>
+      <line x1="417" y1="181.75 " x2="443" y2="181.75 "/>
+      <line x1="417" y1="187.625" x2="443" y2="187.625"/>
+      <line x1="417" y1="193.5  " x2="443" y2="193.5  "/>
+      <line x1="417" y1="199.375" x2="443" y2="199.375"/>
+      <line x1="417" y1="205.25 " x2="443" y2="205.25 "/>
+      <line x1="417" y1="211.125" x2="443" y2="211.125"/>
+      <ellipse transform="translate(222,120) rotate(45)" rx="30" ry="20"/>
+      <line x1="183" y1="170" x2="261" y2="196"/>
+      <line x1="183" y1="196" x2="261" y2="170"/>
+   </g>
+</svg>

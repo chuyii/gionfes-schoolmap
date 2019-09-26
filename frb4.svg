@@ -1,0 +1,278 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 643 131">
+   <g id="areas" fill="#ccc">
+      <g class="area" shortid="0_0" areaname="電子材料実験室">
+         <polygon points="0,0 130,0 130,65 0,65"/>
+         <g class="wrap" transform="translate(0,0)" width="130" height="65"/>
+      </g>
+      <g class="area" shortid="130_0" areaname="電子材料準備室">
+         <polygon points="130,0 160,0 160,65 130,65"/>
+         <g class="wrap"
+            transform="translate(130,0)"
+            width="30"
+            height="65"/>
+      </g>
+      <g class="area" shortid="223_0" areaname="電子工学準備室">
+         <polygon points="223,0 253,0 253,65 223,65"/>
+         <g class="wrap"
+            transform="translate(223,0)"
+            width="30"
+            height="65"/>
+      </g>
+      <g class="area" shortid="253_0" areaname="電子工学実験室">
+         <polygon points="253,0 331,0 331,65 253,65"/>
+         <g class="wrap"
+            transform="translate(253,0)"
+            width="78"
+            height="65"/>
+      </g>
+      <g class="area" shortid="331_0" areaname="サブミリ波実験室">
+         <polygon points="331,0 375,0 375,65 331,65"/>
+         <g class="wrap"
+            transform="translate(331,0)"
+            width="44"
+            height="65"/>
+      </g>
+      <g class="area" shortid="375_0" areaname="ミリ波実験室">
+         <polygon points="375,0 419,0 419,65 375,65"/>
+         <g class="wrap"
+            transform="translate(375,0)"
+            width="44"
+            height="65"/>
+      </g>
+      <g class="area" shortid="419_0" areaname="電子情報通信実験室">
+         <polygon points="419,0 498,0 498,65 419,65"/>
+         <g class="wrap"
+            transform="translate(419,0)"
+            width="79"
+            height="65"/>
+      </g>
+      <g class="area" shortid="498_0" areaname="電子応用準備室">
+         <polygon points="498,0 527,0 527,65 498,65"/>
+         <g class="wrap"
+            transform="translate(498,0)"
+            width="29"
+            height="65"/>
+      </g>
+      <g class="area" shortid="527_0" areaname="電子応用実験室">
+         <polygon points="527,0 615,0 615,65 527,65"/>
+         <g class="wrap"
+            transform="translate(527,0)"
+            width="88"
+            height="65"/>
+      </g>
+      <g class="area" shortid="0_65" areaname="電子計測実験室">
+         <polygon points="0,65 101,65 101,131 0,131"/>
+         <g class="wrap"
+            transform="translate(0,65)"
+            width="101"
+            height="66"/>
+      </g>
+      <g class="area" shortid="101_85" areaname="電子計測準備室">
+         <polygon points="101,85 160,85 160,131 101,131"/>
+         <g class="wrap"
+            transform="translate(101,85)"
+            width="59"
+            height="46"/>
+      </g>
+      <g class="area" shortid="223_85" areaname="E科教員室">
+         <polygon points="223,85 253,85 253,131 223,131"/>
+         <g class="wrap"
+            transform="translate(223,85)"
+            width="30"
+            height="46"/>
+      </g>
+      <g class="area" shortid="282_85" areaname="コミュニティルームE">
+         <polygon points="282,85 331,85 331,131 282,131"/>
+         <g class="wrap"
+            transform="translate(282,85)"
+            width="49"
+            height="46"/>
+      </g>
+      <g class="area" shortid="331_85" areaname="岡本保教員室">
+         <polygon points="331,85 361,85 361,131 331,131"/>
+         <g class="wrap"
+            transform="translate(331,85)"
+            width="30"
+            height="46"/>
+      </g>
+      <g class="area" shortid="361_85" areaname="谷井教員室">
+         <polygon points="361,85 390,85 390,131 361,131"/>
+         <g class="wrap"
+            transform="translate(361,85)"
+            width="29"
+            height="46"/>
+      </g>
+      <g class="area" shortid="390_85" areaname="大野教員室">
+         <polygon points="390,85 419,85 419,131 390,131"/>
+         <g class="wrap"
+            transform="translate(390,85)"
+            width="29"
+            height="46"/>
+      </g>
+      <g class="area" shortid="419_85" areaname="電子情報通信準備室">
+         <polygon points="419,85 468,85 468,131 419,131"/>
+         <g class="wrap"
+            transform="translate(419,85)"
+            width="49"
+            height="46"/>
+      </g>
+      <g class="area" shortid="468_85" areaname="大澤教員室">
+         <polygon points="468,85 498,85 498,131 468,131"/>
+         <g class="wrap"
+            transform="translate(468,85)"
+            width="30"
+            height="46"/>
+      </g>
+      <g class="area" shortid="498_85" areaname="上原教員室">
+         <polygon points="498,85 527,85 527,131 498,131"/>
+         <g class="wrap"
+            transform="translate(498,85)"
+            width="29"
+            height="46"/>
+      </g>
+      <g class="area" shortid="527_85" areaname="若葉教員室">
+         <polygon points="527,85 557,85 557,131 527,131"/>
+         <g class="wrap"
+            transform="translate(527,85)"
+            width="30"
+            height="46"/>
+      </g>
+      <g class="area" shortid="557_85" areaname="電気電子実験第1準備室">
+         <polygon points="557,85 586,85 586,131 557,131"/>
+         <g class="wrap"
+            transform="translate(557,85)"
+            width="29"
+            height="46"/>
+      </g>
+      <g class="area" shortid="586_85" areaname="電気電子実験準備室">
+         <polygon points="586,85 615,85 615,131 586,131"/>
+         <g class="wrap"
+            transform="translate(586,85)"
+            width="29"
+            height="46"/>
+      </g>
+      <g class="area" shortid="160_104" areaname="男子トイレ">
+         <polygon points="160,104 189,104 189,85 223,85 223,131 160,131"/>
+         <g class="wrap"
+            transform="translate(160,104)"
+            width="63"
+            height="27"/>
+      </g>
+   </g>
+   <g id="lines" stroke="#000">
+      <line x1="0" y1="0" x2="130" y2="0"/>
+      <line x1="130" y1="0" x2="160" y2="0"/>
+      <line x1="160" y1="0" x2="223" y2="0"/>
+      <line x1="223" y1="0" x2="253" y2="0"/>
+      <line x1="253" y1="0" x2="331" y2="0"/>
+      <line x1="331" y1="0" x2="375" y2="0"/>
+      <line x1="375" y1="0" x2="419" y2="0"/>
+      <line x1="419" y1="0" x2="498" y2="0"/>
+      <line x1="498" y1="0" x2="527" y2="0"/>
+      <line x1="527" y1="0" x2="615" y2="0"/>
+      <line x1="178" y1="15" x2="204" y2="15"/>
+      <line x1="178" y1="51" x2="204" y2="51"/>
+      <line x1="0" y1="65" x2="101" y2="65"/>
+      <line x1="101" y1="65" x2="130" y2="65"/>
+      <line x1="130" y1="65" x2="160" y2="65"/>
+      <line x1="223" y1="65" x2="253" y2="65"/>
+      <line x1="253" y1="65" x2="331" y2="65"/>
+      <line x1="331" y1="65" x2="375" y2="65"/>
+      <line x1="375" y1="65" x2="419" y2="65"/>
+      <line x1="419" y1="65" x2="498" y2="65"/>
+      <line x1="498" y1="65" x2="527" y2="65"/>
+      <line x1="527" y1="65" x2="615" y2="65"/>
+      <line x1="615" y1="65" x2="643" y2="65"/>
+      <line x1="101" y1="85" x2="160" y2="85"/>
+      <line x1="189" y1="85" x2="223" y2="85"/>
+      <line x1="223" y1="85" x2="253" y2="85"/>
+      <line x1="282" y1="85" x2="331" y2="85"/>
+      <line x1="331" y1="85" x2="361" y2="85"/>
+      <line x1="361" y1="85" x2="390" y2="85"/>
+      <line x1="390" y1="85" x2="419" y2="85"/>
+      <line x1="419" y1="85" x2="468" y2="85"/>
+      <line x1="468" y1="85" x2="498" y2="85"/>
+      <line x1="498" y1="85" x2="527" y2="85"/>
+      <line x1="527" y1="85" x2="557" y2="85"/>
+      <line x1="557" y1="85" x2="586" y2="85"/>
+      <line x1="586" y1="85" x2="615" y2="85"/>
+      <line x1="615" y1="85" x2="643" y2="85"/>
+      <line x1="253" y1="100" x2="282" y2="100"/>
+      <line x1="160" y1="104" x2="189" y2="104"/>
+      <line x1="0" y1="131" x2="101" y2="131"/>
+      <line x1="101" y1="131" x2="160" y2="131"/>
+      <line x1="160" y1="131" x2="223" y2="131"/>
+      <line x1="223" y1="131" x2="253" y2="131"/>
+      <line x1="253" y1="131" x2="282" y2="131"/>
+      <line x1="282" y1="131" x2="331" y2="131"/>
+      <line x1="331" y1="131" x2="361" y2="131"/>
+      <line x1="361" y1="131" x2="390" y2="131"/>
+      <line x1="390" y1="131" x2="419" y2="131"/>
+      <line x1="419" y1="131" x2="468" y2="131"/>
+      <line x1="468" y1="131" x2="498" y2="131"/>
+      <line x1="498" y1="131" x2="527" y2="131"/>
+      <line x1="527" y1="131" x2="557" y2="131"/>
+      <line x1="557" y1="131" x2="586" y2="131"/>
+      <line x1="586" y1="131" x2="615" y2="131"/>
+      <line x1="0" y1="0" x2="0" y2="65"/>
+      <line x1="0" y1="65" x2="0" y2="131"/>
+      <line x1="101" y1="65" x2="101" y2="85"/>
+      <line x1="101" y1="85" x2="101" y2="131"/>
+      <line x1="130" y1="0" x2="130" y2="65"/>
+      <line x1="160" y1="0" x2="160" y2="65"/>
+      <line x1="160" y1="85" x2="160" y2="104"/>
+      <line x1="160" y1="104" x2="160" y2="131"/>
+      <line x1="178" y1="15" x2="178" y2="51"/>
+      <line x1="189" y1="85" x2="189" y2="104"/>
+      <line x1="204" y1="15" x2="204" y2="51"/>
+      <line x1="223" y1="0" x2="223" y2="65"/>
+      <line x1="223" y1="85" x2="223" y2="131"/>
+      <line x1="253" y1="0" x2="253" y2="65"/>
+      <line x1="253" y1="85" x2="253" y2="100"/>
+      <line x1="253" y1="100" x2="253" y2="131"/>
+      <line x1="282" y1="85" x2="282" y2="100"/>
+      <line x1="282" y1="100" x2="282" y2="131"/>
+      <line x1="331" y1="0" x2="331" y2="65"/>
+      <line x1="331" y1="85" x2="331" y2="131"/>
+      <line x1="361" y1="85" x2="361" y2="131"/>
+      <line x1="375" y1="0" x2="375" y2="65"/>
+      <line x1="390" y1="85" x2="390" y2="131"/>
+      <line x1="419" y1="0" x2="419" y2="65"/>
+      <line x1="419" y1="85" x2="419" y2="131"/>
+      <line x1="468" y1="85" x2="468" y2="131"/>
+      <line x1="498" y1="0" x2="498" y2="65"/>
+      <line x1="498" y1="85" x2="498" y2="131"/>
+      <line x1="527" y1="0" x2="527" y2="65"/>
+      <line x1="527" y1="85" x2="527" y2="131"/>
+      <line x1="557" y1="85" x2="557" y2="131"/>
+      <line x1="586" y1="85" x2="586" y2="131"/>
+      <line x1="615" y1="0" x2="615" y2="65"/>
+      <line x1="615" y1="65" x2="615" y2="85"/>
+      <line x1="615" y1="85" x2="615" y2="131"/>
+      <line x1="643" y1="65" x2="643" y2="85"/>
+   </g>
+   <g id="decorations" fill="none" stroke="#000">
+      <line x1="160" y1="21" x2="178" y2="21"/>
+      <line x1="160" y1="25" x2="178" y2="25"/>
+      <line x1="160" y1="29" x2="178" y2="29"/>
+      <line x1="160" y1="33" x2="178" y2="33"/>
+      <line x1="160" y1="37" x2="178" y2="37"/>
+      <line x1="160" y1="41" x2="178" y2="41"/>
+      <line x1="160" y1="45" x2="178" y2="45"/>
+      <line x1="204" y1="21" x2="223" y2="21"/>
+      <line x1="204" y1="25" x2="223" y2="25"/>
+      <line x1="204" y1="29" x2="223" y2="29"/>
+      <line x1="204" y1="33" x2="223" y2="33"/>
+      <line x1="204" y1="37" x2="223" y2="37"/>
+      <line x1="204" y1="41" x2="223" y2="41"/>
+      <line x1="204" y1="45" x2="223" y2="45"/>
+      <line x1="253" y1="100" x2="282" y2="131"/>
+      <line x1="253" y1="131" x2="282" y2="100"/>
+      <line x1="615" y1="75" x2="640" y2="75"/>
+      <line x1="621" y1="75" x2="621" y2="85"/>
+      <line x1="625" y1="75" x2="625" y2="85"/>
+      <line x1="629" y1="75" x2="629" y2="85"/>
+      <line x1="633" y1="75" x2="633" y2="85"/>
+      <line x1="637" y1="75" x2="637" y2="85"/>
+   </g>
+</svg>
