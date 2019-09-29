@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 490 490">
+   <g id="areas" fill="#ccc">
+      <g class="area" shortid="190_0" areaname="11">
+         <polygon vector-effect="non-scaling-stroke" points="190,0 250,0 250,30 190,30"/>
+         <g class="wrap"
+            transform="translate(190,0)"
+            width="60"
+            height="30"/>
+      </g>
+      <g class="area" shortid="190_30" areaname="12">
+         <polygon vector-effect="non-scaling-stroke" points="190,30 250,30 250,60 190,60"/>
+         <g class="wrap"
+            transform="translate(190,30)"
+            width="60"
+            height="30"/>
+      </g>
+      <g class="area" shortid="190_60" areaname="13">
+         <polygon vector-effect="non-scaling-stroke" points="190,60 250,60 250,90 190,90"/>
+         <g class="wrap"
+            transform="translate(190,60)"
+            width="60"
+            height="30"/>
+      </g>
+      <g class="area" shortid="0_90" areaname="7">
+         <polygon vector-effect="non-scaling-stroke" points="0,90 60,90 60,120 0,120"/>
+         <g class="wrap" transform="translate(0,90)" width="60" height="30"/>
+      </g>
+      <g class="area" shortid="60_90" areaname="8">
+         <polygon vector-effect="non-scaling-stroke" points="60,90 120,90 120,120 60,120"/>
+         <g class="wrap"
+            transform="translate(60,90)"
+            width="60"
+            height="30"/>
+      </g>
+      <g class="area" shortid="190_90" areaname="14">
+         <polygon vector-effect="non-scaling-stroke"
+                  points="190,90 250,90 250,120 190,120"/>
+         <g class="wrap"
+            transform="translate(190,90)"
+            width="60"
+            height="30"/>
+      </g>
+      <g class="area" shortid="60_120" areaname="9">
+         <polygon vector-effect="non-scaling-stroke"
+                  points="60,120 120,120 120,150 60,150"/>
+         <g class="wrap"
+            transform="translate(60,120)"
+            width="60"
+            height="30"/>
+      </g>
+      <g class="area" shortid="190_120" areaname="15">
+         <polygon vector-effect="non-scaling-stroke"
+                  points="190,120 250,120 250,150 190,150"/>
+         <g class="wrap"
+            transform="translate(190,120)"
+            width="60"
+            height="30"/>
+      </g>
+      <g class="area" shortid="60_150" areaname="10">
+         <polygon vector-effect="non-scaling-stroke"
+                  points="60,150 120,150 120,180 60,180"/>
+         <g class="wrap"
+            transform="translate(60,150)"
+            width="60"
+            height="30"/>
+      </g>
+      <g class="area" shortid="190_150" areaname="16">
+         <polygon vector-effect="non-scaling-stroke"
+                  points="190,150 250,150 250,180 190,180"/>
+         <g class="wrap"
+            transform="translate(190,150)"
+            width="60"
+            height="30"/>
+      </g>
+   </g>
+   <g id="lines" stroke="#000"/>
+   <g id="decorations" fill="none" stroke="#000"/>
+</svg>

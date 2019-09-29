@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 490 490">
+   <g id="areas" fill="#ccc">
+      <g class="area" shortid="0_0" areaname="未設定">
+         <polygon vector-effect="non-scaling-stroke" points="0,0 60,0 60,30 0,30"/>
+         <g class="wrap" transform="translate(0,0)" width="60" height="30"/>
+      </g>
+      <g class="area" shortid="60_0" areaname="26">
+         <polygon vector-effect="non-scaling-stroke" points="60,0 120,0 120,30 60,30"/>
+         <g class="wrap" transform="translate(60,0)" width="60" height="30"/>
+      </g>
+      <g class="area" shortid="120_0" areaname="27">
+         <polygon vector-effect="non-scaling-stroke" points="120,0 180,0 180,30 120,30"/>
+         <g class="wrap"
+            transform="translate(120,0)"
+            width="60"
+            height="30"/>
+      </g>
+      <g class="area" shortid="180_0" areaname="未設定">
+         <polygon vector-effect="non-scaling-stroke" points="180,0 240,0 240,30 180,30"/>
+         <g class="wrap"
+            transform="translate(180,0)"
+            width="60"
+            height="30"/>
+      </g>
+      <g class="area" shortid="0_90" areaname="28">
+         <polygon vector-effect="non-scaling-stroke" points="0,90 60,90 60,120 0,120"/>
+         <g class="wrap" transform="translate(0,90)" width="60" height="30"/>
+      </g>
+      <g class="area" shortid="60_90" areaname="29">
+         <polygon vector-effect="non-scaling-stroke" points="60,90 120,90 120,120 60,120"/>
+         <g class="wrap"
+            transform="translate(60,90)"
+            width="60"
+            height="30"/>
+      </g>
+      <g class="area" shortid="120_90" areaname="30">
+         <polygon vector-effect="non-scaling-stroke"
+                  points="120,90 180,90 180,120 120,120"/>
+         <g class="wrap"
+            transform="translate(120,90)"
+            width="60"
+            height="30"/>
+      </g>
+      <g class="area" shortid="180_90" areaname="31">
+         <polygon vector-effect="non-scaling-stroke"
+                  points="180,90 240,90 240,120 180,120"/>
+         <g class="wrap"
+            transform="translate(180,90)"
+            width="60"
+            height="30"/>
+      </g>
+   </g>
+   <g id="lines" stroke="#000"/>
+   <g id="decorations" fill="none" stroke="#000"/>
+</svg>

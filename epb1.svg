@@ -1,133 +1,145 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 426 980">
    <g id="areas" fill="#ccc">
       <g class="area" shortid="0_0" areaname="都市創造実験室">
-         <polygon points="0,0 426,0 426,121 349,121 349,262 281,262 281,214 259,214 259,197 235,197 235,214 141,214 141,121 0,121"/>
+         <polygon vector-effect="non-scaling-stroke"
+                  points="0,0 426,0 426,121 349,121 349,262 281,262 281,214 259,214 259,197 235,197 235,214 141,214 141,121 0,121"/>
          <g class="wrap"
             transform="translate(0,0)"
             width="426"
             height="121"/>
       </g>
       <g class="area" shortid="0_121" areaname="都市創造レクチャー室">
-         <polygon points="0,121 141,121 141,214 153,214 153,262 0,262"/>
+         <polygon vector-effect="non-scaling-stroke"
+                  points="0,121 141,121 141,214 153,214 153,262 0,262"/>
          <g class="wrap"
             transform="translate(0,121)"
             width="141"
             height="141"/>
       </g>
       <g class="area" shortid="349_121" areaname="都市創造計測室">
-         <polygon points="349,121 426,121 426,262 349,262"/>
+         <polygon vector-effect="non-scaling-stroke"
+                  points="349,121 426,121 426,262 349,262"/>
          <g class="wrap"
             transform="translate(349,121)"
             width="77"
             height="141"/>
       </g>
       <g class="area" shortid="153_214" areaname="女子トイレ">
-         <polygon points="153,214 209,214 209,262 153,262"/>
+         <polygon vector-effect="non-scaling-stroke"
+                  points="153,214 209,214 209,262 153,262"/>
          <g class="wrap"
             transform="translate(153,214)"
             width="56"
             height="48"/>
       </g>
       <g class="area" shortid="235_214" areaname="男子トイレ">
-         <polygon points="235,214 281,214 281,262 235,262"/>
+         <polygon vector-effect="non-scaling-stroke"
+                  points="235,214 281,214 281,262 235,262"/>
          <g class="wrap"
             transform="translate(235,214)"
             width="46"
             height="48"/>
       </g>
       <g class="area" shortid="0_262" areaname="電気機器実験室">
-         <polygon points="0,262 209,262 209,408 0,408"/>
+         <polygon vector-effect="non-scaling-stroke" points="0,262 209,262 209,408 0,408"/>
          <g class="wrap"
             transform="translate(0,262)"
             width="209"
             height="146"/>
       </g>
       <g class="area" shortid="235_288" areaname="溶接工場 鋳造・鍛造工場">
-         <polygon points="235,288 259,288 259,328 281,328 281,262 426,262 426,549 235,549"/>
+         <polygon vector-effect="non-scaling-stroke"
+                  points="235,288 259,288 259,328 281,328 281,262 426,262 426,549 235,549"/>
          <g class="wrap"
             transform="translate(235,262)"
             width="191"
             height="287"/>
       </g>
       <g class="area" shortid="0_408" areaname="ものづくり実習室">
-         <polygon points="0,408 141,408 141,549 0,549"/>
+         <polygon vector-effect="non-scaling-stroke" points="0,408 141,408 141,549 0,549"/>
          <g class="wrap"
             transform="translate(0,408)"
             width="141"
             height="141"/>
       </g>
       <g class="area" shortid="141_408" areaname="パワーエレクトロニクス研究室">
-         <polygon points="141,408 209,408 209,549 141,549"/>
+         <polygon vector-effect="non-scaling-stroke"
+                  points="141,408 209,408 209,549 141,549"/>
          <g class="wrap"
             transform="translate(141,408)"
             width="68"
             height="141"/>
       </g>
       <g class="area" shortid="235_549" areaname="機械工場">
-         <polygon points="235,549 315,549 315,646 426,646 426,980 281,980 281,918 181,918 181,581 235,581"/>
+         <polygon vector-effect="non-scaling-stroke"
+                  points="235,549 315,549 315,646 426,646 426,980 281,980 281,918 181,918 181,581 235,581"/>
          <g class="wrap"
             transform="translate(181,646)"
             width="245"
             height="272"/>
       </g>
       <g class="area" shortid="315_549" areaname="産学連携・安全管理室">
-         <polygon points="315,549 426,549 426,646 315,646"/>
+         <polygon vector-effect="non-scaling-stroke"
+                  points="315,549 426,549 426,646 315,646"/>
          <g class="wrap"
             transform="translate(315,549)"
             width="111"
             height="97"/>
       </g>
       <g class="area" shortid="0_581" areaname="熱工学実験室">
-         <polygon points="0,581 113,581 113,690 0,690"/>
+         <polygon vector-effect="non-scaling-stroke" points="0,581 113,581 113,690 0,690"/>
          <g class="wrap"
             transform="translate(0,581)"
             width="113"
             height="109"/>
       </g>
       <g class="area" shortid="113_581" areaname="熱工学解析室">
-         <polygon points="113,581 181,581 181,690 113,690"/>
+         <polygon vector-effect="non-scaling-stroke"
+                  points="113,581 181,581 181,690 113,690"/>
          <g class="wrap"
             transform="translate(113,581)"
             width="68"
             height="109"/>
       </g>
       <g class="area" shortid="0_690" areaname="機械力学実験室">
-         <polygon points="0,690 91,690 91,777 0,777"/>
+         <polygon vector-effect="non-scaling-stroke" points="0,690 91,690 91,777 0,777"/>
          <g class="wrap"
             transform="translate(0,690)"
             width="91"
             height="87"/>
       </g>
       <g class="area" shortid="91_690" areaname="機械力学研究室">
-         <polygon points="91,690 181,690 181,831 91,831"/>
+         <polygon vector-effect="non-scaling-stroke"
+                  points="91,690 181,690 181,831 91,831"/>
          <g class="wrap"
             transform="translate(91,690)"
             width="90"
             height="141"/>
       </g>
       <g class="area" shortid="0_777" areaname="M科専攻科第2研究室">
-         <polygon points="0,777 91,777 91,831 0,831"/>
+         <polygon vector-effect="non-scaling-stroke" points="0,777 91,777 91,831 0,831"/>
          <g class="wrap"
             transform="translate(0,777)"
             width="91"
             height="54"/>
       </g>
       <g class="area" shortid="0_831" areaname="M科専攻科第1研究室">
-         <polygon points="0,831 181,831 181,885 0,885"/>
+         <polygon vector-effect="non-scaling-stroke" points="0,831 181,831 181,885 0,885"/>
          <g class="wrap"
             transform="translate(0,831)"
             width="181"
             height="54"/>
       </g>
       <g class="area" shortid="0_885" areaname="機械要素研究室">
-         <polygon points="0,885 181,885 181,980 0,980"/>
+         <polygon vector-effect="non-scaling-stroke" points="0,885 181,885 181,980 0,980"/>
          <g class="wrap"
             transform="translate(0,885)"
             width="181"
             height="95"/>
       </g>
       <g class="area" shortid="181_918" areaname="試作シミュレーション室">
-         <polygon points="181,918 281,918 281,980 181,980"/>
+         <polygon vector-effect="non-scaling-stroke"
+                  points="181,918 281,918 281,980 181,980"/>
          <g class="wrap"
             transform="translate(181,918)"
             width="100"
@@ -135,104 +147,492 @@
       </g>
    </g>
    <g id="lines" stroke="#000">
-      <line x1="0" y1="0" x2="426" y2="0"/>
-      <line x1="0" y1="121" x2="141" y2="121"/>
-      <line x1="349" y1="121" x2="426" y2="121"/>
-      <line x1="235" y1="197" x2="259" y2="197"/>
-      <line x1="141" y1="214" x2="153" y2="214"/>
-      <line x1="153" y1="214" x2="209" y2="214"/>
-      <line x1="235" y1="214" x2="259" y2="214"/>
-      <line x1="259" y1="214" x2="281" y2="214"/>
-      <line x1="185" y1="241" x2="209" y2="241"/>
-      <line x1="0" y1="262" x2="153" y2="262"/>
-      <line x1="153" y1="262" x2="209" y2="262"/>
-      <line x1="235" y1="262" x2="253" y2="262"/>
-      <line x1="281" y1="262" x2="349" y2="262"/>
-      <line x1="349" y1="262" x2="426" y2="262"/>
-      <line x1="235" y1="288" x2="259" y2="288"/>
-      <line x1="259" y1="288" x2="281" y2="288"/>
-      <line x1="259" y1="306" x2="281" y2="306"/>
-      <line x1="259" y1="328" x2="281" y2="328"/>
-      <line x1="349" y1="338" x2="426" y2="338"/>
-      <line x1="0" y1="408" x2="141" y2="408"/>
-      <line x1="141" y1="408" x2="209" y2="408"/>
-      <line x1="281" y1="408" x2="426" y2="408"/>
-      <line x1="0" y1="549" x2="141" y2="549"/>
-      <line x1="141" y1="549" x2="209" y2="549"/>
-      <line x1="235" y1="549" x2="315" y2="549"/>
-      <line x1="315" y1="549" x2="426" y2="549"/>
-      <line x1="0" y1="581" x2="113" y2="581"/>
-      <line x1="113" y1="581" x2="181" y2="581"/>
-      <line x1="181" y1="581" x2="235" y2="581"/>
-      <line x1="315" y1="646" x2="426" y2="646"/>
-      <line x1="0" y1="690" x2="91" y2="690"/>
-      <line x1="91" y1="690" x2="113" y2="690"/>
-      <line x1="113" y1="690" x2="181" y2="690"/>
-      <line x1="124" y1="760" x2="181" y2="760"/>
-      <line x1="0" y1="777" x2="91" y2="777"/>
-      <line x1="0" y1="831" x2="91" y2="831"/>
-      <line x1="91" y1="831" x2="181" y2="831"/>
-      <line x1="0" y1="885" x2="181" y2="885"/>
-      <line x1="181" y1="918" x2="281" y2="918"/>
-      <line x1="0" y1="980" x2="181" y2="980"/>
-      <line x1="181" y1="980" x2="281" y2="980"/>
-      <line x1="281" y1="980" x2="426" y2="980"/>
-      <line x1="0" y1="0" x2="0" y2="121"/>
-      <line x1="0" y1="121" x2="0" y2="262"/>
-      <line x1="0" y1="262" x2="0" y2="408"/>
-      <line x1="0" y1="408" x2="0" y2="549"/>
-      <line x1="0" y1="549" x2="0" y2="581"/>
-      <line x1="0" y1="581" x2="0" y2="690"/>
-      <line x1="0" y1="690" x2="0" y2="777"/>
-      <line x1="0" y1="777" x2="0" y2="831"/>
-      <line x1="0" y1="831" x2="0" y2="885"/>
-      <line x1="0" y1="885" x2="0" y2="980"/>
-      <line x1="91" y1="690" x2="91" y2="777"/>
-      <line x1="91" y1="777" x2="91" y2="831"/>
-      <line x1="113" y1="581" x2="113" y2="690"/>
-      <line x1="141" y1="121" x2="141" y2="214"/>
-      <line x1="141" y1="408" x2="141" y2="549"/>
-      <line x1="153" y1="214" x2="153" y2="262"/>
-      <line x1="181" y1="581" x2="181" y2="690"/>
-      <line x1="181" y1="690" x2="181" y2="760"/>
-      <line x1="181" y1="760" x2="181" y2="831"/>
-      <line x1="181" y1="831" x2="181" y2="885"/>
-      <line x1="181" y1="885" x2="181" y2="918"/>
-      <line x1="181" y1="918" x2="181" y2="980"/>
-      <line x1="209" y1="214" x2="209" y2="241"/>
-      <line x1="209" y1="262" x2="209" y2="408"/>
-      <line x1="209" y1="408" x2="209" y2="549"/>
-      <line x1="235" y1="197" x2="235" y2="214"/>
-      <line x1="235" y1="214" x2="235" y2="262"/>
-      <line x1="235" y1="288" x2="235" y2="549"/>
-      <line x1="235" y1="549" x2="235" y2="581"/>
-      <line x1="259" y1="197" x2="259" y2="214"/>
-      <line x1="259" y1="288" x2="259" y2="306"/>
-      <line x1="259" y1="306" x2="259" y2="328"/>
-      <line x1="281" y1="214" x2="281" y2="262"/>
-      <line x1="281" y1="262" x2="281" y2="288"/>
-      <line x1="281" y1="288" x2="281" y2="306"/>
-      <line x1="281" y1="306" x2="281" y2="328"/>
-      <line x1="281" y1="918" x2="281" y2="980"/>
-      <line x1="315" y1="549" x2="315" y2="646"/>
-      <line x1="349" y1="121" x2="349" y2="262"/>
-      <line x1="426" y1="0" x2="426" y2="121"/>
-      <line x1="426" y1="121" x2="426" y2="262"/>
-      <line x1="426" y1="262" x2="426" y2="338"/>
-      <line x1="426" y1="338" x2="426" y2="408"/>
-      <line x1="426" y1="408" x2="426" y2="549"/>
-      <line x1="426" y1="549" x2="426" y2="646"/>
-      <line x1="426" y1="646" x2="426" y2="980"/>
+      <line vector-effect="non-scaling-stroke"
+            x1="0"
+            y1="0"
+            x2="426"
+            y2="0"/>
+      <line vector-effect="non-scaling-stroke"
+            x1="0"
+            y1="121"
+            x2="141"
+            y2="121"/>
+      <line vector-effect="non-scaling-stroke"
+            x1="349"
+            y1="121"
+            x2="426"
+            y2="121"/>
+      <line vector-effect="non-scaling-stroke"
+            x1="235"
+            y1="197"
+            x2="259"
+            y2="197"/>
+      <line vector-effect="non-scaling-stroke"
+            x1="141"
+            y1="214"
+            x2="153"
+            y2="214"/>
+      <line vector-effect="non-scaling-stroke"
+            x1="153"
+            y1="214"
+            x2="209"
+            y2="214"/>
+      <line vector-effect="non-scaling-stroke"
+            x1="235"
+            y1="214"
+            x2="259"
+            y2="214"/>
+      <line vector-effect="non-scaling-stroke"
+            x1="259"
+            y1="214"
+            x2="281"
+            y2="214"/>
+      <line vector-effect="non-scaling-stroke"
+            x1="185"
+            y1="241"
+            x2="209"
+            y2="241"/>
+      <line vector-effect="non-scaling-stroke"
+            x1="0"
+            y1="262"
+            x2="153"
+            y2="262"/>
+      <line vector-effect="non-scaling-stroke"
+            x1="153"
+            y1="262"
+            x2="209"
+            y2="262"/>
+      <line vector-effect="non-scaling-stroke"
+            x1="235"
+            y1="262"
+            x2="253"
+            y2="262"/>
+      <line vector-effect="non-scaling-stroke"
+            x1="281"
+            y1="262"
+            x2="349"
+            y2="262"/>
+      <line vector-effect="non-scaling-stroke"
+            x1="349"
+            y1="262"
+            x2="426"
+            y2="262"/>
+      <line vector-effect="non-scaling-stroke"
+            x1="235"
+            y1="288"
+            x2="259"
+            y2="288"/>
+      <line vector-effect="non-scaling-stroke"
+            x1="259"
+            y1="288"
+            x2="281"
+            y2="288"/>
+      <line vector-effect="non-scaling-stroke"
+            x1="259"
+            y1="306"
+            x2="281"
+            y2="306"/>
+      <line vector-effect="non-scaling-stroke"
+            x1="259"
+            y1="328"
+            x2="281"
+            y2="328"/>
+      <line vector-effect="non-scaling-stroke"
+            x1="349"
+            y1="338"
+            x2="426"
+            y2="338"/>
+      <line vector-effect="non-scaling-stroke"
+            x1="0"
+            y1="408"
+            x2="141"
+            y2="408"/>
+      <line vector-effect="non-scaling-stroke"
+            x1="141"
+            y1="408"
+            x2="209"
+            y2="408"/>
+      <line vector-effect="non-scaling-stroke"
+            x1="281"
+            y1="408"
+            x2="426"
+            y2="408"/>
+      <line vector-effect="non-scaling-stroke"
+            x1="0"
+            y1="549"
+            x2="141"
+            y2="549"/>
+      <line vector-effect="non-scaling-stroke"
+            x1="141"
+            y1="549"
+            x2="209"
+            y2="549"/>
+      <line vector-effect="non-scaling-stroke"
+            x1="235"
+            y1="549"
+            x2="315"
+            y2="549"/>
+      <line vector-effect="non-scaling-stroke"
+            x1="315"
+            y1="549"
+            x2="426"
+            y2="549"/>
+      <line vector-effect="non-scaling-stroke"
+            x1="0"
+            y1="581"
+            x2="113"
+            y2="581"/>
+      <line vector-effect="non-scaling-stroke"
+            x1="113"
+            y1="581"
+            x2="181"
+            y2="581"/>
+      <line vector-effect="non-scaling-stroke"
+            x1="181"
+            y1="581"
+            x2="235"
+            y2="581"/>
+      <line vector-effect="non-scaling-stroke"
+            x1="315"
+            y1="646"
+            x2="426"
+            y2="646"/>
+      <line vector-effect="non-scaling-stroke"
+            x1="0"
+            y1="690"
+            x2="91"
+            y2="690"/>
+      <line vector-effect="non-scaling-stroke"
+            x1="91"
+            y1="690"
+            x2="113"
+            y2="690"/>
+      <line vector-effect="non-scaling-stroke"
+            x1="113"
+            y1="690"
+            x2="181"
+            y2="690"/>
+      <line vector-effect="non-scaling-stroke"
+            x1="124"
+            y1="760"
+            x2="181"
+            y2="760"/>
+      <line vector-effect="non-scaling-stroke"
+            x1="0"
+            y1="777"
+            x2="91"
+            y2="777"/>
+      <line vector-effect="non-scaling-stroke"
+            x1="0"
+            y1="831"
+            x2="91"
+            y2="831"/>
+      <line vector-effect="non-scaling-stroke"
+            x1="91"
+            y1="831"
+            x2="181"
+            y2="831"/>
+      <line vector-effect="non-scaling-stroke"
+            x1="0"
+            y1="885"
+            x2="181"
+            y2="885"/>
+      <line vector-effect="non-scaling-stroke"
+            x1="181"
+            y1="918"
+            x2="281"
+            y2="918"/>
+      <line vector-effect="non-scaling-stroke"
+            x1="0"
+            y1="980"
+            x2="181"
+            y2="980"/>
+      <line vector-effect="non-scaling-stroke"
+            x1="181"
+            y1="980"
+            x2="281"
+            y2="980"/>
+      <line vector-effect="non-scaling-stroke"
+            x1="281"
+            y1="980"
+            x2="426"
+            y2="980"/>
+      <line vector-effect="non-scaling-stroke"
+            x1="0"
+            y1="0"
+            x2="0"
+            y2="121"/>
+      <line vector-effect="non-scaling-stroke"
+            x1="0"
+            y1="121"
+            x2="0"
+            y2="262"/>
+      <line vector-effect="non-scaling-stroke"
+            x1="0"
+            y1="262"
+            x2="0"
+            y2="408"/>
+      <line vector-effect="non-scaling-stroke"
+            x1="0"
+            y1="408"
+            x2="0"
+            y2="549"/>
+      <line vector-effect="non-scaling-stroke"
+            x1="0"
+            y1="549"
+            x2="0"
+            y2="581"/>
+      <line vector-effect="non-scaling-stroke"
+            x1="0"
+            y1="581"
+            x2="0"
+            y2="690"/>
+      <line vector-effect="non-scaling-stroke"
+            x1="0"
+            y1="690"
+            x2="0"
+            y2="777"/>
+      <line vector-effect="non-scaling-stroke"
+            x1="0"
+            y1="777"
+            x2="0"
+            y2="831"/>
+      <line vector-effect="non-scaling-stroke"
+            x1="0"
+            y1="831"
+            x2="0"
+            y2="885"/>
+      <line vector-effect="non-scaling-stroke"
+            x1="0"
+            y1="885"
+            x2="0"
+            y2="980"/>
+      <line vector-effect="non-scaling-stroke"
+            x1="91"
+            y1="690"
+            x2="91"
+            y2="777"/>
+      <line vector-effect="non-scaling-stroke"
+            x1="91"
+            y1="777"
+            x2="91"
+            y2="831"/>
+      <line vector-effect="non-scaling-stroke"
+            x1="113"
+            y1="581"
+            x2="113"
+            y2="690"/>
+      <line vector-effect="non-scaling-stroke"
+            x1="141"
+            y1="121"
+            x2="141"
+            y2="214"/>
+      <line vector-effect="non-scaling-stroke"
+            x1="141"
+            y1="408"
+            x2="141"
+            y2="549"/>
+      <line vector-effect="non-scaling-stroke"
+            x1="153"
+            y1="214"
+            x2="153"
+            y2="262"/>
+      <line vector-effect="non-scaling-stroke"
+            x1="181"
+            y1="581"
+            x2="181"
+            y2="690"/>
+      <line vector-effect="non-scaling-stroke"
+            x1="181"
+            y1="690"
+            x2="181"
+            y2="760"/>
+      <line vector-effect="non-scaling-stroke"
+            x1="181"
+            y1="760"
+            x2="181"
+            y2="831"/>
+      <line vector-effect="non-scaling-stroke"
+            x1="181"
+            y1="831"
+            x2="181"
+            y2="885"/>
+      <line vector-effect="non-scaling-stroke"
+            x1="181"
+            y1="885"
+            x2="181"
+            y2="918"/>
+      <line vector-effect="non-scaling-stroke"
+            x1="181"
+            y1="918"
+            x2="181"
+            y2="980"/>
+      <line vector-effect="non-scaling-stroke"
+            x1="209"
+            y1="214"
+            x2="209"
+            y2="241"/>
+      <line vector-effect="non-scaling-stroke"
+            x1="209"
+            y1="262"
+            x2="209"
+            y2="408"/>
+      <line vector-effect="non-scaling-stroke"
+            x1="209"
+            y1="408"
+            x2="209"
+            y2="549"/>
+      <line vector-effect="non-scaling-stroke"
+            x1="235"
+            y1="197"
+            x2="235"
+            y2="214"/>
+      <line vector-effect="non-scaling-stroke"
+            x1="235"
+            y1="214"
+            x2="235"
+            y2="262"/>
+      <line vector-effect="non-scaling-stroke"
+            x1="235"
+            y1="288"
+            x2="235"
+            y2="549"/>
+      <line vector-effect="non-scaling-stroke"
+            x1="235"
+            y1="549"
+            x2="235"
+            y2="581"/>
+      <line vector-effect="non-scaling-stroke"
+            x1="259"
+            y1="197"
+            x2="259"
+            y2="214"/>
+      <line vector-effect="non-scaling-stroke"
+            x1="259"
+            y1="288"
+            x2="259"
+            y2="306"/>
+      <line vector-effect="non-scaling-stroke"
+            x1="259"
+            y1="306"
+            x2="259"
+            y2="328"/>
+      <line vector-effect="non-scaling-stroke"
+            x1="281"
+            y1="214"
+            x2="281"
+            y2="262"/>
+      <line vector-effect="non-scaling-stroke"
+            x1="281"
+            y1="262"
+            x2="281"
+            y2="288"/>
+      <line vector-effect="non-scaling-stroke"
+            x1="281"
+            y1="288"
+            x2="281"
+            y2="306"/>
+      <line vector-effect="non-scaling-stroke"
+            x1="281"
+            y1="306"
+            x2="281"
+            y2="328"/>
+      <line vector-effect="non-scaling-stroke"
+            x1="281"
+            y1="918"
+            x2="281"
+            y2="980"/>
+      <line vector-effect="non-scaling-stroke"
+            x1="315"
+            y1="549"
+            x2="315"
+            y2="646"/>
+      <line vector-effect="non-scaling-stroke"
+            x1="349"
+            y1="121"
+            x2="349"
+            y2="262"/>
+      <line vector-effect="non-scaling-stroke"
+            x1="426"
+            y1="0"
+            x2="426"
+            y2="121"/>
+      <line vector-effect="non-scaling-stroke"
+            x1="426"
+            y1="121"
+            x2="426"
+            y2="262"/>
+      <line vector-effect="non-scaling-stroke"
+            x1="426"
+            y1="262"
+            x2="426"
+            y2="338"/>
+      <line vector-effect="non-scaling-stroke"
+            x1="426"
+            y1="338"
+            x2="426"
+            y2="408"/>
+      <line vector-effect="non-scaling-stroke"
+            x1="426"
+            y1="408"
+            x2="426"
+            y2="549"/>
+      <line vector-effect="non-scaling-stroke"
+            x1="426"
+            y1="549"
+            x2="426"
+            y2="646"/>
+      <line vector-effect="non-scaling-stroke"
+            x1="426"
+            y1="646"
+            x2="426"
+            y2="980"/>
    </g>
    <g id="decorations" fill="none" stroke="#000">
-      <line x1="239.8" y1="197" x2="239.8" y2="214"/>
-      <line x1="244.6" y1="197" x2="244.6" y2="214"/>
-      <line x1="249.4" y1="197" x2="249.4" y2="214"/>
-      <line x1="254.2" y1="197" x2="254.2" y2="214"/>
-      <line x1="259" y1="306" x2="281" y2="288"/>
-      <line x1="259" y1="310.4" x2="281" y2="310.4"/>
-      <line x1="259" y1="314.8" x2="281" y2="314.8"/>
-      <line x1="259" y1="319.2" x2="281" y2="319.2"/>
-      <line x1="259" y1="323.6" x2="281" y2="323.6"/>
+      <line vector-effect="non-scaling-stroke"
+            x1="239.8"
+            y1="197"
+            x2="239.8"
+            y2="214"/>
+      <line vector-effect="non-scaling-stroke"
+            x1="244.6"
+            y1="197"
+            x2="244.6"
+            y2="214"/>
+      <line vector-effect="non-scaling-stroke"
+            x1="249.4"
+            y1="197"
+            x2="249.4"
+            y2="214"/>
+      <line vector-effect="non-scaling-stroke"
+            x1="254.2"
+            y1="197"
+            x2="254.2"
+            y2="214"/>
+      <line vector-effect="non-scaling-stroke"
+            x1="259"
+            y1="306"
+            x2="281"
+            y2="288"/>
+      <line vector-effect="non-scaling-stroke"
+            x1="259"
+            y1="310.4"
+            x2="281"
+            y2="310.4"/>
+      <line vector-effect="non-scaling-stroke"
+            x1="259"
+            y1="314.8"
+            x2="281"
+            y2="314.8"/>
+      <line vector-effect="non-scaling-stroke"
+            x1="259"
+            y1="319.2"
+            x2="281"
+            y2="319.2"/>
+      <line vector-effect="non-scaling-stroke"
+            x1="259"
+            y1="323.6"
+            x2="281"
+            y2="323.6"/>
    </g>
 </svg>

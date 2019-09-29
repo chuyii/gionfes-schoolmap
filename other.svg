@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 490 490">
+   <g id="areas" fill="#ccc">
+      <g class="area" shortid="40_110" areaname="課外活動館">
+         <polygon vector-effect="non-scaling-stroke"
+                  points="40,110 340,110 340,185 40,185"/>
+         <g class="wrap"
+            transform="translate(40,110)"
+            width="300"
+            height="75"/>
+      </g>
+      <g class="area" shortid="670_110" areaname="第1体育館">
+         <polygon vector-effect="non-scaling-stroke"
+                  points="670,110 970,110 970,185 670,185"/>
+         <g class="wrap"
+            transform="translate(670,110)"
+            width="300"
+            height="75"/>
+      </g>
+      <g class="area" shortid="1000_110" areaname="第2体育館">
+         <polygon vector-effect="non-scaling-stroke"
+                  points="1000,110 1300,110 1300,185 1000,185"/>
+         <g class="wrap"
+            transform="translate(1000,110)"
+            width="300"
+            height="75"/>
+      </g>
+      <g class="area" shortid="1350_570" areaname="自動車部ガレージ">
+         <polygon vector-effect="non-scaling-stroke"
+                  points="1350,570 1650,570 1650,645 1350,645"/>
+         <g class="wrap"
+            transform="translate(1350,570)"
+            width="300"
+            height="75"/>
+      </g>
+      <g class="area" shortid="370_620" areaname="講義棟C">
+         <polygon vector-effect="non-scaling-stroke"
+                  points="370,620 670,620 670,695 370,695"/>
+         <g class="wrap"
+            transform="translate(370,620)"
+            width="300"
+            height="75"/>
+      </g>
+      <g class="area" shortid="40_670" areaname="野球場">
+         <polygon vector-effect="non-scaling-stroke"
+                  points="40,670 340,670 340,745 40,745"/>
+         <g class="wrap"
+            transform="translate(40,670)"
+            width="300"
+            height="75"/>
+      </g>
+      <g class="area" shortid="250_1250" areaname="講義棟B">
+         <polygon vector-effect="non-scaling-stroke"
+                  points="250,1250 550,1250 550,1325 250,1325"/>
+         <g class="wrap"
+            transform="translate(250,1250)"
+            width="300"
+            height="75"/>
+      </g>
+      <g class="area" shortid="700_1250" areaname="学友会館">
+         <polygon vector-effect="non-scaling-stroke"
+                  points="700,1250 1000,1250 1000,1325 700,1325"/>
+         <g class="wrap"
+            transform="translate(700,1250)"
+            width="300"
+            height="75"/>
+      </g>
+   </g>
+   <g id="lines" stroke="#000"/>
+   <g id="decorations" fill="none" stroke="#000"/>
+</svg>

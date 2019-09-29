@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 490 490">
+   <g id="areas" fill="#ccc">
+      <g class="area" shortid="0_0" areaname="1">
+         <polygon vector-effect="non-scaling-stroke" points="0,0 60,0 60,30 0,30"/>
+         <g class="wrap" transform="translate(0,0)" width="60" height="30"/>
+      </g>
+      <g class="area" shortid="60_0" areaname="2">
+         <polygon vector-effect="non-scaling-stroke" points="60,0 120,0 120,30 60,30"/>
+         <g class="wrap" transform="translate(60,0)" width="60" height="30"/>
+      </g>
+      <g class="area" shortid="120_0" areaname="3">
+         <polygon vector-effect="non-scaling-stroke" points="120,0 180,0 180,30 120,30"/>
+         <g class="wrap"
+            transform="translate(120,0)"
+            width="60"
+            height="30"/>
+      </g>
+      <g class="area" shortid="180_0" areaname="4">
+         <polygon vector-effect="non-scaling-stroke" points="180,0 240,0 240,30 180,30"/>
+         <g class="wrap"
+            transform="translate(180,0)"
+            width="60"
+            height="30"/>
+      </g>
+      <g class="area" shortid="260_40" areaname="5">
+         <polygon vector-effect="non-scaling-stroke" points="260,40 320,40 320,70 260,70"/>
+         <g class="wrap"
+            transform="translate(260,40)"
+            width="60"
+            height="30"/>
+      </g>
+      <g class="area" shortid="260_70" areaname="6">
+         <polygon vector-effect="non-scaling-stroke"
+                  points="260,70 320,70 320,100 260,100"/>
+         <g class="wrap"
+            transform="translate(260,70)"
+            width="60"
+            height="30"/>
+      </g>
+   </g>
+   <g id="lines" stroke="#000"/>
+   <g id="decorations" fill="none" stroke="#000"/>
+</svg>
